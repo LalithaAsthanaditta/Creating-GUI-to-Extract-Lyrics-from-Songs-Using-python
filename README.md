@@ -1,1 +1,1 @@
-# Creating-GUI-to-Extract-Lyrics-from-Songs-Using-python
+A Python application with a graphical user interface (GUI) that allows users to search for songs and extract their lyrics easily. Integrates song search and lyric extraction features in a user-friendly interface using libraries such as Tkinter and requests. Ideal for music enthusiasts and beginner Python developers exploring GUI development and API integration.
